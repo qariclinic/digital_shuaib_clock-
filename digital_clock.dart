@@ -20,7 +20,7 @@ class _DigitalClockState extends State<DigitalClock> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text(time, style: TextStyle(fontSize: 70, color: Colors.green, fontFamily: 'Digital')),
+            Text(time, style: TextStyle(fontSize: 70, color: Colors.green)),
             SizedBox(height: 10),
             Text(hijri, style: TextStyle(fontSize: 30, color: Colors.white)),
           ],

@@ -1,2 +1,15 @@
-# digital_shuaib_clock-
-digital_shuaib_clock/
+# Digital Shuaib Clock
+
+An Islamic Digital Wall Clock showing:
+- Real-time time with seconds
+- Hijri & Gregorian Date
+- Works on Android & Web
+
+## Build Locally
+
+```bash
+flutter pub get
+flutter run
+flutter build apk
+flutter build web
+```

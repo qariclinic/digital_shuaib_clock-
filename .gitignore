@@ -1,0 +1,5 @@
+build/
+.terraform/
+.idea/
+*.lock
+.DS_Store
