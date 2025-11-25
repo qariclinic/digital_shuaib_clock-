@@ -1,0 +1,17 @@
+name: digital_shuaib_clock
+description: An Islamic Digital Wall Clock compatible with Android & Web.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+  hijri: ^3.0.0
+  flutter_local_notifications: ^17.2.0
+  google_fonts: any
+
+flutter:
+  uses-material-design: true
